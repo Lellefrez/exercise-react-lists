@@ -1,0 +1,16 @@
+nav {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-around;
+  align-items: center;
+}
+
+nav figure {
+  width: 50px;
+}
+
+nav menu {
+  display: flex;
+  list-style-type: none;
+  gap: 0.5rem;
+}
