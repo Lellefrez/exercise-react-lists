@@ -4,7 +4,7 @@ header {
 }
 
 figure img {
-  width: 70vw;
+  width: 80vw;
 }
 
 section {
@@ -12,6 +12,7 @@ section {
   display: grid;
   justify-content: center;
   align-items: center;
+  margin-right: 1rem;
 }
 h6 {
   padding: 0 5rem;
@@ -37,7 +38,7 @@ p {
 }
 
 div button {
-  padding: 1rem 6rem;
+  padding: 1rem 5rem;
 }
 button:hover {
   cursor: pointer;
