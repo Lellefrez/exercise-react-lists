@@ -1,0 +1,44 @@
+header {
+  margin: 0.2rem 0;
+  display: flex;
+}
+
+figure img {
+  width: 70vw;
+}
+
+section {
+  background-color: yellow;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+h6 {
+  padding: 0 5rem;
+}
+h1 {
+  font-size: 2rem;
+  padding: 0 5rem;
+}
+hr {
+  margin: 0 5rem;
+}
+p {
+  padding: 0 5rem;
+}
+.btn-top {
+  background: black;
+  color: white;
+  padding: 0.5rem;
+  margin-left: 5rem;
+  margin-right: 18rem;
+  display: flex;
+  justify-content: center;
+}
+
+div button {
+  padding: 1rem 6rem;
+}
+button:hover {
+  cursor: pointer;
+}

@@ -1,16 +1,24 @@
 nav {
   display: flex;
   gap: 1rem;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
+  font-size: 1rem;
+  padding: 1rem;
 }
 
 nav figure {
-  width: 50px;
+  width: 80px;
 }
 
 nav menu {
   display: flex;
   list-style-type: none;
-  gap: 0.5rem;
+  gap: 2rem;
+  margin: 0 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
 }
